@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Compatibility: 4.x
+Name: search-belal
+Main: main.js
+Description: ay habal we 3abat.
+Link: readme.md
+Icon: icon.png

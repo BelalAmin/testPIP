@@ -13,7 +13,7 @@ define([
                       'label'   : 'Insert Cell Above',
                       'icon'    : 'fa-arrow-circle-o-up',
                       'callback': function () {
-                                                    Jupyter.notebook.insert_cell_above('code');
+                                                    Jupyter.notebook.insert_cell_above('markup');
                                                     Jupyter.notebook.select_prev();
                                                     Jupyter.notebook.focus_cell();
                       }
